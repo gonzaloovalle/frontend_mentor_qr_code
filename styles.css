@@ -1,0 +1,43 @@
+
+.outfit-400 {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(216, 15%, 48%);
+  }
+
+  .outfit-700 {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  #qr-code-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+    margin: auto;
+    width: 60%;
+  }
+
+  #qr-code-card {
+    width: auto;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  body {
+    background-color: hsl(212, 45%, 89%);
+  }
